@@ -1,0 +1,18 @@
+[
+  {
+    "_id": {
+      "$oid": "69206c0e912e34839fb1ba46"
+    },
+    "nombre": "Ricardo",
+    "materia": "Matemáticas",
+    "antiguedad": 10
+  },
+  {
+    "_id": {
+      "$oid": "692075e974c58d46493836eb"
+    },
+    "nombre": "Ricardo",
+    "materia": "Matemáticas",
+    "antiguedad": 10
+  }
+]
